@@ -1,1 +1,1 @@
-this portfolio is of vishal ojha
+this portfolio is of vishal ojha made with HTML5, CSS and JS
