@@ -1484,6 +1484,10 @@ body > div.pp.portfolio-popup.open > div.pp-details.active > div > div.pp-title 
 
 /***** End contact section *****/
 
+<<<<<<< HEAD
+=======
+/***** Footer start *****/
+>>>>>>> 0056529bad2492486d55b6456227de3da31a5dce
 .footer {
     background-color: var(--second-color);
     color: #fff;
@@ -1506,4 +1510,11 @@ body > div.pp.portfolio-popup.open > div.pp-details.active > div > div.pp-title 
   }
   .footer__copy {
     font-size: var(--smaller-font-size);
+<<<<<<< HEAD
   }
+=======
+  }
+
+/***** End of footer *****/
+
+>>>>>>> 0056529bad2492486d55b6456227de3da31a5dce
