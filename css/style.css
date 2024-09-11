@@ -4,7 +4,7 @@
 
 :root{
     --bg-black-900: #000000;
-    --bg-black-1000: #dddddd;
+    --bg-black-1000: #979191;
     --bg-black-50: #eff0f4;
     --text-black-900: #000000; 
     --text-black-700: #555555; 
@@ -694,7 +694,7 @@ img{
     padding: 0 15px;
 }
 
-.about-section .about-info .about-info-inner p{
+.about-section .about-info .about-info-inner p {
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 15px;
